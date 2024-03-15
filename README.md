@@ -29,7 +29,8 @@ This project showcases the steps required to set up a free, open source, help de
 
 <h3>Creating Virtual Machines</h3>
 <p>
-<img src="![image](https://github.com/CJones226/osticket-prereqs/assets/158533476/b7571dcd-8c92-4c59-8626-b688b9b3268c)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="![image](![image](https://github.com/CJones226/osticket-prereqs/assets/158533476/9a7920ea-cc74-41cd-a661-447d15134ce0)
+)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit emt, consectur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim venium, quis nostrud exercitation ullamco laboris nisis ut alipuip ex ea commodo consequat. Duie aute irure dolor in peprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
