@@ -27,6 +27,7 @@ This project showcases the steps required to set up a free, open source, help de
 
 <h2>Installation Steps</h2>
 
+<h3>Creating Virtual Machines</h3>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
