@@ -28,21 +28,12 @@ This project showcases the steps required to set up a free, open source, help de
 <h2>Installation Steps</h2>
 
 <h3>Creating Virtual Machines</h3>
-<p>
-<img src="![image](![image](![image](https://github.com/CJones226/osticket-prereqs/assets/158533476/3c78c296-8dda-440c-b441-440f9aff0a32)
-)
-)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit emt, consectur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim venium, quis nostrud exercitation ullamco laboris nisis ut alipuip ex ea commodo consequat. Duie aute irure dolor in peprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/CJones226/osticket-prereqs/blob/main/Creating%20Resource%20Group.JPG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit emt, consectur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim venium, quis nostrud exercitation ullamco laboris nisis ut alipuip ex ea commodo consequat. Duie aute irure dolor in peprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To create the Virtual Machine it is necessary to first create a Resource Group to contain all of the information created and added to the Machine. To make things simple, I just called it 'OsTicket'.
 </p>
 <br />
 
