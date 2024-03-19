@@ -131,8 +131,7 @@ Finally simply reset the server by pressing stop and then start in the Actions t
 <img src="https://github.com/CJones226/osticket-prereqs/assets/158533476/98f79f30-585d-4b59-b62f-ccb55c5d7889" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now that all of the prerequisites are installed we can install osTicket! Navigate to https://drive.google.com/file/d/1VeVXKlzHDRjeaVUL99ptq7qYbrbXdFxJ/view?usp=drive_link and download osTicket. Once downloaded you will want to open the file and copy 'upload' and paste it into wwwroot, the path is as follows: C:\inetpub\wwwroot |
-  Once copied over, rename the copied file iwthin wwwroot from 'upload' to 'osTicket' it is case sensitive.
+Now that all of the prerequisites are installed we can install osTicket! Navigate to https://drive.google.com/file/d/1VeVXKlzHDRjeaVUL99ptq7qYbrbXdFxJ/view?usp=drive_link and download osTicket. Once downloaded you will want to open the file and copy 'upload' and paste it into wwwroot, the path is as follows: C:\inetpub\wwwroot | Once copied over, rename the copied file within wwwroot from 'upload' to 'osTicket' it is case sensitive.
 </p>
 <br />
 
