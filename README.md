@@ -86,11 +86,12 @@ Navigate on the virtual machine to https://drive.google.com/file/d/1tIK9GZBKj1Jy
 </p>
 <br />
 
+<h3>Installing MySQL</h3>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit emt, consectur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim venium, quis nostrud exercitation ullamco laboris nisis ut alipuip ex ea commodo consequat. Duie aute irure dolor in peprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once the file is downloaded begin the install. Accept the terms, select the typical install, and then Launch the instance. Once inside choose the standard configuration, and install as a windows service, and execute.
 </p>
 <br />
 
