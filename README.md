@@ -52,7 +52,7 @@ Using Remote Desktop Connection, connect to your virtual machine using the IP Ad
 
 <h3>Installing PHP Manager for IIS</h3>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/CJones226/osticket-prereqs/assets/158533476/c668f336-079c-4ae4-add1-7d3f39e8bdac" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In the virtual machine, navigate to https://www.iis.net/downloads/community/2018/05/php-manager-150-for-iis-10 and download the file. Once downloaded, run the file, accept and agree to the conditions, once done it will install.
