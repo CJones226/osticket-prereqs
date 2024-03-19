@@ -59,11 +59,12 @@ In the virtual machine, navigate to https://www.iis.net/downloads/community/2018
 </p>
 <br />
 
+<h3>Installing Rewrite Module</h3>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit emt, consectur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim venium, quis nostrud exercitation ullamco laboris nisis ut alipuip ex ea commodo consequat. Duie aute irure dolor in peprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Inside the virtual machine navigate to https://www.iis.net/downloads/microsoft/url-rewrite and download the x64 version. Once downloaded run the program. Accept the terms, and click install, and then finish. Once done the Module is installed
 </p>
 <br />
 
