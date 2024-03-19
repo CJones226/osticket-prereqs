@@ -108,10 +108,10 @@ We must finally register the new PHP version. Search the computer for IIS and ru
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/CJones226/osticket-prereqs/assets/158533476/d53e05b1-74d9-4de5-8629-c543028adf69" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next choose the path to the executable file. If you followed the past steps the php-cgi.exe file is withing PHP, the path you want is C:\PHP\php-7.3.8-nts-Win32-VC15-x86\php-cgi.exe  once you are finished you must stop and start the server within IIS 
+Next choose the path to the executable file. If you followed the past steps the php-cgi.exe file is withing PHP, the path you want is C:\PHP\php-7.3.8-nts-Win32-VC15-x86\php-cgi.exe
 </p>
 <br />
 
@@ -119,7 +119,7 @@ Next choose the path to the executable file. If you followed the past steps the 
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit emt, consectur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim venium, quis nostrud exercitation ullamco laboris nisis ut alipuip ex ea commodo consequat. Duie aute irure dolor in peprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Finally simply reset the server by pressing stop and then start in the Actions tab, under Manage Server
 </p>
 <br />
 
