@@ -177,7 +177,7 @@ Next click on add, at the top click 'select a principal' and enter everyone, and
 
 <h3>Configuring osTicket</h3>
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://github.com/CJones226/osticket-prereqs/assets/158533476/c11de796-bae8-4c45-837f-af8696176738" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Open OsTicket in the browser. Within IIS navigate to the osTicket Home, and click on 'Browse *:80 (http)' on the right hand side. This page should appear
