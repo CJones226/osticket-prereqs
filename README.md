@@ -70,18 +70,19 @@ Inside the virtual machine navigate to https://www.iis.net/downloads/microsoft/u
 
 <h3>Installing PHP</h3>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/CJones226/osticket-prereqs/assets/158533476/f50d46ae-33f0-49ac-a87b-95ca21794efa" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-On the virtual machine navigate to https://drive.google.com/drive/folders/1yOk5ejp5Oe21USJfCgelyvdlJMwHRhxC?usp=drive_link and download PHP, once downloaded it is necessary to unzip the file into its own directory. Within the C drive you should create a file called PHP, within this file extract the file you downloaded.
+On the virtual machine navigate to https://drive.google.com/drive/folders/1yOk5ejp5Oe21USJfCgelyvdlJMwHRhxC?usp=drive_link and download PHP, once downloaded it is necessary to unzip the file into its own directory. Within the C drive you should create a file called PHP, within this file extract the PHP file you downloaded.
 </p>
 <br />
 
+<h3>Installing VC_Redist</h3>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit emt, consectur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim venium, quis nostrud exercitation ullamco laboris nisis ut alipuip ex ea commodo consequat. Duie aute irure dolor in peprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Navigate on the virtual machine to https://drive.google.com/file/d/1tIK9GZBKj1JyUP87eewxgdNqn9pZmVmY/view?usp=drive_link and download the file. Once downloaded, accept the terms and conditions and install.
 </p>
 <br />
 
