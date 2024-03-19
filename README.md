@@ -61,10 +61,10 @@ In the virtual machine, navigate to https://www.iis.net/downloads/community/2018
 
 <h3>Installing Rewrite Module</h3>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/CJones226/osticket-prereqs/assets/158533476/c788d4d3-51c5-4a71-8d4c-bad2524247aa" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Inside the virtual machine navigate to https://www.iis.net/downloads/microsoft/url-rewrite and download the x64 version. Once downloaded run the program. Accept the terms, and click install, and then finish. Once done the Module is installed
+Inside the virtual machine navigate to https://www.iis.net/downloads/microsoft/url-rewrite and download the x64 version. Once downloaded run the program. Accept the terms, and click install, and then finish. Once done the module is installed and ready to go.
 </p>
 <br />
 
