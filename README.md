@@ -166,7 +166,7 @@ Navigate to C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php | once ther
 <img src="https://github.com/CJones226/osticket-prereqs/assets/158533476/d992b1d4-524e-40b0-bf76-7d143d4582c4" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Left click on ost-config.php and click on properties. Once inside navigate to the security tab and click advanced. Once you are in the advanced settings you are going to click "Disable inheritance" disable it for all.
+Left click on ost-config.php and click on properties. Once inside navigate to the security tab and click advanced. Once you are in the advanced settings you are going to click "Disable inheritance" remove all.
 </p>
 <img src="https://github.com/CJones226/osticket-prereqs/assets/158533476/619acc70-8131-452c-9f32-53be1e5c644a" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
