@@ -103,7 +103,7 @@ Once the file is downloaded begin the install. Accept the terms, select the typi
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step one is to register the new PHP version. Choose the path to the executable file. If you followed the past steps the php-cgi.exe file is withing PHP, the path you want is C:\PHP\php-7.3.8-nts-Win32-VC15-x86\php-cgi.exe  once you are finished you must stop and start the server within IIS 
+Register the new PHP version. Choose the path to the executable file. If you followed the past steps the php-cgi.exe file is withing PHP, the path you want is C:\PHP\php-7.3.8-nts-Win32-VC15-x86\php-cgi.exe  once you are finished you must stop and start the server within IIS 
 </p>
 <br />
 
