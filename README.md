@@ -119,14 +119,8 @@ Next choose the path to the executable file. If you followed the past steps the 
 <img src="https://github.com/CJones226/osticket-prereqs/assets/158533476/310afa64-418b-4cb5-a156-36a836a9f43f" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Finally simply reset the server by pressing stop and then start in the Actions tab, under Manage Server
+Finally simply reset the server by pressing stop and then start in the Actions tab, under Manage Server. Once this is all done you have successfully completed all the prerequisites for installing OsTicket!
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit emt, consectur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim venium, quis nostrud exercitation ullamco laboris nisis ut alipuip ex ea commodo consequat. Duie aute irure dolor in peprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<h1>PREREQUISITES FINISHED</h1>
