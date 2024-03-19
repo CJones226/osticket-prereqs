@@ -161,7 +161,7 @@ Navigate to C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php | once ther
 </p>
 <br />
 
-<h3>Removing and Adding Permissions</h3>
+<h3>Disabling Inheritance and Adding Permissions</h3>
 <p>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
