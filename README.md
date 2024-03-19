@@ -152,11 +152,12 @@ Within PHP Extensions enable: php_imap.dll | php_intl.dll | php_opcache.dll
 </p>
 <br />
 
+<h3>Renaming ost-sampleconfig.php</h3>
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/CJones226/osticket-prereqs/assets/158533476/ec70c737-2ed2-4d39-a7e2-c1a13c5c750a" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Description
+Navigate to C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php | once there rename the file from ost-sampleconfig.php to ost-config.php
 </p>
 <br />
 
