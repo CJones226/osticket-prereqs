@@ -136,7 +136,7 @@ Now that all of the prerequisites are installed we can install osTicket! Navigat
 <br />
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/CJones226/osticket-prereqs/assets/158533476/c22b5ab0-cb57-4bc6-8cae-877c63abbc51" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Inside of IIS navigate on the left hand side in the following path sites>Default Web Site>osTicket>PHP Manager>Enable or disable an extension.
