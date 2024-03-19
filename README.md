@@ -145,7 +145,7 @@ Inside of IIS navigate on the left hand side in the following path sites>Default
 <br />
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/CJones226/osticket-prereqs/assets/158533476/f2eb553d-33b1-47d1-ad25-e60f9866179d" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Within PHP Extensions enable: php_imap.dll | php_intl.dll | php_opcache.dll
