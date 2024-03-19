@@ -116,7 +116,7 @@ Next choose the path to the executable file. If you followed the past steps the 
 <br />
 
 <p>
-<img src="https://github.com/CJones226/osticket-prereqs/assets/158533476/310afa64-418b-4cb5-a156-36a836a9f43f" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/CJones226/osticket-prereqs/assets/158533476/310afa64-418b-4cb5-a156-36a836a9f43f" height="30%" width="30%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Finally simply reset the server by pressing stop and then start in the Actions tab, under Manage Server. Once this is all done you have successfully completed all the prerequisites for installing OsTicket!
@@ -128,41 +128,42 @@ Finally simply reset the server by pressing stop and then start in the Actions t
 <h1>OsTicket Configuration and Setup</h1>
 
 <p>
-<img src="https://github.com/CJones226/osticket-prereqs/assets/158533476/310afa64-418b-4cb5-a156-36a836a9f43f" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/CJones226/osticket-prereqs/assets/158533476/98f79f30-585d-4b59-b62f-ccb55c5d7889" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now that all of the prerequisites are installed we can install osTicket! Navigate to https://drive.google.com/file/d/1VeVXKlzHDRjeaVUL99ptq7qYbrbXdFxJ/view?usp=drive_link and download osTicket. Once downloaded you will want to open the file and copy 'upload' and paste it into wwwroot, the path is as follows: C:\inetpub\wwwroot
-</p>
-<br />
-
-<p>
-<img src="https://github.com/CJones226/osticket-prereqs/assets/158533476/310afa64-418b-4cb5-a156-36a836a9f43f" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Finally simply reset the server by pressing stop and then start in the Actions tab, under Manage Server. Once this is all done you have successfully completed all the prerequisites for installing OsTicket!
+Now that all of the prerequisites are installed we can install osTicket! Navigate to https://drive.google.com/file/d/1VeVXKlzHDRjeaVUL99ptq7qYbrbXdFxJ/view?usp=drive_link and download osTicket. Once downloaded you will want to open the file and copy 'upload' and paste it into wwwroot, the path is as follows: C:\inetpub\wwwroot |
+  Once copied over, rename the copied file iwthin wwwroot from 'upload' to 'osTicket' it is case sensitive.
 </p>
 <br />
 
 <p>
-<img src="https://github.com/CJones226/osticket-prereqs/assets/158533476/310afa64-418b-4cb5-a156-36a836a9f43f" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Finally simply reset the server by pressing stop and then start in the Actions tab, under Manage Server. Once this is all done you have successfully completed all the prerequisites for installing OsTicket!
-</p>
-<br />
-
-<p>
-<img src="https://github.com/CJones226/osticket-prereqs/assets/158533476/310afa64-418b-4cb5-a156-36a836a9f43f" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Finally simply reset the server by pressing stop and then start in the Actions tab, under Manage Server. Once this is all done you have successfully completed all the prerequisites for installing OsTicket!
+Description
 </p>
 <br />
 
 <p>
-<img src="https://github.com/CJones226/osticket-prereqs/assets/158533476/310afa64-418b-4cb5-a156-36a836a9f43f" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Finally simply reset the server by pressing stop and then start in the Actions tab, under Manage Server. Once this is all done you have successfully completed all the prerequisites for installing OsTicket!
+Description
+</p>
+<br />
+
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Description
+</p>
+<br />
+
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Description
 </p>
 <br />
