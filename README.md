@@ -135,6 +135,7 @@ Now that all of the prerequisites are installed we can install osTicket! Navigat
 </p>
 <br />
 
+<h3>Enabling Extensions</h3>
 <p>
 <img src="https://github.com/CJones226/osticket-prereqs/assets/158533476/c22b5ab0-cb57-4bc6-8cae-877c63abbc51" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -147,7 +148,7 @@ Inside of IIS navigate on the left hand side in the following path sites>Default
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Description
+Within PHP Extensions enable: php_imap.dll | php_intl.dll | php_opcache.dll
 </p>
 <br />
 
