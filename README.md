@@ -163,18 +163,15 @@ Navigate to C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php | once ther
 
 <h3>Disabling Inheritance and Adding Permissions</h3>
 <p>
+<img src="https://github.com/CJones226/osticket-prereqs/assets/158533476/d992b1d4-524e-40b0-bf76-7d143d4582c4" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Left click on ost-config.php and click on properties. Once inside navigate to the security tab and click advanced. Once you are in the advanced settings you are going to click "Disable inheritance" disable it for all.
+</p>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Left click on ost-config.php and click on properties. Once inside navigate to the security tab and click advanced. Once you are in the advanced settings you are going to click "remove inheritance" remove it for all. Next click on add, at the top click 'select a principal' and enter everyone, and click 'check names' and click 'ok'. Next give total control and click 'ok' then 'apply then 'ok'.
-</p>
-<br />
-
-<p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Description
+Next click on add, at the top click 'select a principal' and enter everyone, and click 'check names' and click 'ok'. Next give total control and click 'ok' then 'apply then 'ok'.
 </p>
 <br />
 
