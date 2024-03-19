@@ -157,7 +157,72 @@ Within PHP Extensions enable: php_imap.dll | php_intl.dll | php_opcache.dll
 <img src="https://github.com/CJones226/osticket-prereqs/assets/158533476/ec70c737-2ed2-4d39-a7e2-c1a13c5c750a" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Navigate to C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php | once there rename the file from ost-sampleconfig.php to ost-config.php
+Navigate to C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php | once there rename the file from ost-sampleconfig.php to     ost-config.php
+</p>
+<br />
+
+<h3>Removing and Adding Permissions</h3>
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Left click on ost-config.php and click on properties. Once inside navigate to the security tab and click advanced. Once you are in the advanced settings you are going to click "remove inheritance" remove it for all. Next click on add, at the top click 'select a principal' and enter everyone, and click 'check names' and click 'ok'. Next give total control and click 'ok' then 'apply then 'ok'.
+</p>
+<br />
+
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Description
+</p>
+<br />
+
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Description
+</p>
+<br />
+
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Description
+</p>
+<br />
+
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Description
+</p>
+<br />
+
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Description
+</p>
+<br />
+
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Description
+</p>
+<br />
+
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Description
 </p>
 <br />
 
