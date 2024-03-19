@@ -68,11 +68,12 @@ Inside the virtual machine navigate to https://www.iis.net/downloads/microsoft/u
 </p>
 <br />
 
+<h3>Installing PHP</h3>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit emt, consectur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim venium, quis nostrud exercitation ullamco laboris nisis ut alipuip ex ea commodo consequat. Duie aute irure dolor in peprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+On the virtual machine navigate to https://drive.google.com/drive/folders/1yOk5ejp5Oe21USJfCgelyvdlJMwHRhxC?usp=drive_link and download PHP, once downloaded it is necessary to unzip the file into its own directory. Within the C drive you should create a file called PHP, within this file extract the file you downloaded.
 </p>
 <br />
 
