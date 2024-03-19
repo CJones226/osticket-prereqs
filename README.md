@@ -91,10 +91,10 @@ Navigate on the virtual machine to https://drive.google.com/file/d/1tIK9GZBKj1Jy
 <img src="https://github.com/CJones226/osticket-prereqs/assets/158533476/229f395c-ba46-411b-8333-e92dfabb1452" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src-"https://i.imgur.com/DJmEXEb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/CJones226/osticket-prereqs/assets/158533476/44c61b07-b37b-49b4-807b-1c509647d052" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Once the file is downloaded begin the install. Accept the terms, select the typical install, and then Launch the instance. Once inside choose the standard configuration, and install as a windows service, and execute.
+Once the file is downloaded begin the install. Accept the terms, select the typical install, and then Launch the instance. Once inside choose the standard configuration, and install as a windows service, and execute. Set your password as somethine you can remember, for example I used "password1"
 </p>
 <br />
 
