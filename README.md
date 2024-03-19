@@ -12,7 +12,7 @@ This project showcases the steps required to set up a free, open source, help de
 - Internet Information Services (IIS)
 
 <h2>Operating Systems Used</h2>
-- Windows 10</b> (21H2)
+- Windows 10</b>
 
 <h2>List of Prerequisites</h2>
 
@@ -46,7 +46,7 @@ When creating your virtual machines you have to create a resource group first fo
 <img src="https://github.com/CJones226/osticket-prereqs/assets/158533476/24c89532-26c5-46fe-9a7e-971ac71e244b" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit emt, consectur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim venium, quis nostrud exercitation ullamco laboris nisis ut alipuip ex ea commodo consequat. Duie aute irure dolor in peprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Using Remote Desktop Connection, connect to your virtual machine using the IP Address in Azure. Once connected, login with the username and password you created. Then set up the computer and make it to the home screen. Once that is accomplished you can open up your Control Panel and navigate to Programs->Programs and Features. Then select 'Turn Windows features on or off'. A window will pop up and you can scroll down and select Internet Information Services->Web Management Tools->IIS Management Console, as well as World Wide Web Services->Application Development Features->CGI, as well as Common HTTP Features. Then select OK, the computer will search and install the programs.
 </p>
 <br />
 
