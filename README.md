@@ -88,7 +88,10 @@ Navigate on the virtual machine to https://drive.google.com/file/d/1tIK9GZBKj1Jy
 
 <h3>Installing MySQL</h3>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/CJones226/osticket-prereqs/assets/158533476/229f395c-ba46-411b-8333-e92dfabb1452" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src-"https://i.imgur.com/DJmEXEb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Once the file is downloaded begin the install. Accept the terms, select the typical install, and then Launch the instance. Once inside choose the standard configuration, and install as a windows service, and execute.
