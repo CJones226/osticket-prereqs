@@ -79,7 +79,7 @@ On the virtual machine navigate to https://drive.google.com/drive/folders/1yOk5e
 
 <h3>Installing VC_Redist</h3>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/CJones226/osticket-prereqs/assets/158533476/e7f2c702-154b-4189-95e6-ec0f6a5cd701" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Navigate on the virtual machine to https://drive.google.com/file/d/1tIK9GZBKj1JyUP87eewxgdNqn9pZmVmY/view?usp=drive_link and download the file. Once downloaded, accept the terms and conditions and install.
