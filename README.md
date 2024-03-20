@@ -186,6 +186,7 @@ Open OsTicket in the browser. Within IIS navigate to the osTicket Home, and clic
 <img src="https://github.com/CJones226/osticket-prereqs/assets/158533476/b5958359-dc79-4b74-862a-96e29f17a022" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
+<h3>System Settings & Admin User</h3>
 <p>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
