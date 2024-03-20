@@ -188,10 +188,10 @@ Open OsTicket in the browser. Within IIS navigate to the osTicket Home, and clic
 
 <h3>System Settings & Admin User</h3>
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/CJones226/osticket-prereqs/assets/158533476/cccb8c5c-53a4-4495-8963-7a2e631e4c2c" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Description
+This will be the next page to appear. Here you are going to name the Help Desk and add the Admin to the account.
 </p>
 <br />
 
