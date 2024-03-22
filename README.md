@@ -212,26 +212,16 @@ Once Heidi SQL is downloaded run a session of it, and then create a new Session 
 </p>
 <br />
 
+<h1>Setting Up MySQL</h1>
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/CJones226/osticket-prereqs/blob/main/Database%20Setup.JPG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Description
 </p>
 <br />
 
-<p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Description
-</p>
-<br />
-
-<p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
+<h1>All Prerequisites Complete</h1>
 Description
 </p>
 <br />
