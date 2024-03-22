@@ -195,11 +195,12 @@ This will be the next page to appear. Here you are going to name the Help Desk a
 </p>
 <br />
 
+<h3>Using Heidi SQL</h3>
 <p>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Description
+Once Heidi SQL is downloaded run a session of it, and then create a new Session and name it osTicket, use the user root, and the password: password1. Then open.
 </p>
 <br />
 
