@@ -195,8 +195,9 @@ This will be the next page to appear. Here you are going to name the Help Desk a
 </p>
 <br />
 
+<h3>Installing Heidi SQL</h3>
 <p>
-<img src="" height="80%" width="80%" alt="DIsk Sanitization Steps"/>
+<img src="https://github.com/CJones226/osticket-prereqs/blob/main/Heidi%20SQL%20Install.JPG?raw=true" height="80%" width="80%" alt="DIsk Sanitization Steps"/>
 </p>
 <p>
 Navigate to the following link and download Heidi SQL, follow the basic download and leave everything in the automatic setup.
