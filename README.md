@@ -208,7 +208,7 @@ Navigate to the following link and download Heidi SQL, follow the basic download
 <img src="https://github.com/CJones226/osticket-prereqs/blob/main/Heidi%20usage.JPG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Once Heidi SQL is downloaded run a session of it, and then create a new Session and name it osTicket, use the user root, and the password: password1. Then open.
+Once Heidi SQL is downloaded run a session of it, and then create a new Session use the user root, and the password: password1. Then open, once inside make a new Database and call it osTicket
 </p>
 <br />
 
