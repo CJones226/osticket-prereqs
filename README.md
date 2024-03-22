@@ -191,7 +191,7 @@ Open OsTicket in the browser. Within IIS navigate to the osTicket Home, and clic
 <img src="https://github.com/CJones226/osticket-prereqs/assets/158533476/cccb8c5c-53a4-4495-8963-7a2e631e4c2c" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-This will be the next page to appear. Here you are going to name the Help Desk and add the Admin to the account.
+This will be the next page to appear. Here you are going to name the Help Desk and add the Admin to the account. To keep everything simple I used the name 'osTicket Help Desk' and the email 'osticket@helper.com' once this was done I went even more generic and made the administrator John Doe at a similar email with the password 'password1'.
 </p>
 <br />
 
