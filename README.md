@@ -217,11 +217,8 @@ Once Heidi SQL is downloaded run a session of it, and then create a new Session 
 <img src="https://github.com/CJones226/osticket-prereqs/blob/main/Database%20Setup.JPG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Description
+Enter the information that you just created into the bubbles. Leave "MySQL Table Prefix" "MySQL Hostname" all there auto fill, and then fill in the last three. osTicket, root, and then the password.
 </p>
 <br />
 
 <h1>All Prerequisites Complete</h1>
-Description
-</p>
-<br />
