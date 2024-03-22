@@ -16,18 +16,28 @@ This project showcases the steps required to set up a free, open source, help de
 
 <h2>List of Prerequisites</h2>
 
-- Creating Virtual Machines
+- Create Virtual Machine
 - Installing IIS
 - Installing PHP Manager
 - Installing Rewrite Module
 - Installing PHP
 - Installing VC_redist
 - Installing MySQL
-- Clean Up
+
+<h2>Configuration and Setup</h2>
+
+-Enabling Extensions
+-Renaming ost-sampleconfig.php
+-Disabling Inheritance and Adding Permission
+-Configuring osTicket
+-System Settings & Admin User
+-Installing Heidi SQL
+-Using Heidi SQL
+-osTicket SQL Database Settings
 
 <h2>Installation Steps</h2>
 
-<h3>Creating Virtual Machines</h3>
+<h3>Create Virtual Machine</h3>
 
 <p>
 <img src="https://github.com/CJones226/osticket-prereqs/blob/main/Creating%20Resource%20Group.JPG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -123,8 +133,6 @@ Finally simply reset the server by pressing stop and then start in the Actions t
 </p>
 <br />
 
-<h1>PREREQUISITES FINISHED</h1>
-
 <h1>OsTicket Configuration and Setup</h1>
 
 <p>
@@ -212,7 +220,7 @@ Once Heidi SQL is downloaded run a session of it, and then create a new Session 
 </p>
 <br />
 
-<h1>Setting Up MySQL</h1>
+<h1>osTicket SQL Database Settings</h1>
 <p>
 <img src="https://github.com/CJones226/osticket-prereqs/blob/main/Database%20Setup.JPG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
