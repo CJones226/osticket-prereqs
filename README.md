@@ -235,7 +235,6 @@ Enter the information that you just created into the bubbles. Leave "MySQL Table
 </p>
 <p>
 Finally, we are at the portion where we can change the permissions for ost-config.php and we can delete the setup file. Navigate in your files to: C:\inetpub\wwwroot\osTicket\setup and delete the file.'
-<img src="https://github.com/CJones226/osticket-prereqs/assets/158533476/d9d5000c-6543-4d88-a7b9-453fdad8b83a" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-Once that is complete navigate to: C:\inetpub\wwwroot\osTicket\include\ost-config.php once there you are going to go into the properties and change the permissions to "read only."
-</p>
+<img src="https://github.com/CJones226/osticket-prereqs/assets/158533476/79b0b786-7b45-447f-a26c-f49d65bd64ac" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Once that is complete navigate to: C:\inetpub\wwwroot\osTicket\include\ost-config.php once there you are going to right click the file, select properties, security, advanced. Once in advanced you will select everyone and click edit, and remove the permissions for everything except "read & execute" and "read". Then click 'ok' and 'apply'
 <h1>All Prerequisites Complete</h1>
