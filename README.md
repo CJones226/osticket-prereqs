@@ -220,7 +220,7 @@ Once Heidi SQL is downloaded run a session of it, and then create a new Session 
 </p>
 <br />
 
-<h1>osTicket SQL Database Settings</h1>
+<h3>osTicket SQL Database Settings</h3>
 <p>
 <img src="https://github.com/CJones226/osticket-prereqs/blob/main/Database%20Setup.JPG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -229,4 +229,11 @@ Enter the information that you just created into the bubbles. Leave "MySQL Table
 </p>
 <br />
 
+<h3>Change File Permissions</h3>
+<p>
+<img src="https://github.com/CJones226/osticket-prereqs/blob/main/Database%20Setup.JPG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Finally, we are at the portion where we can change the permissions for ost-config.php and we can delete the setup file. Navigate in your files to: C:\inetpub\wwwroot\osTicket\setup and delete the file.
+</p>
 <h1>All Prerequisites Complete</h1>
