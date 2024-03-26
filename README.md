@@ -238,6 +238,8 @@ Finally, we are at the portion where we can change the permissions for ost-confi
 </p>
 <p>
 <img src="https://github.com/CJones226/osticket-prereqs/assets/158533476/79b0b786-7b45-447f-a26c-f49d65bd64ac" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 Once that is complete navigate to: C:\inetpub\wwwroot\osTicket\include\ost-config.php once there you are going to right click the file, select properties, security, advanced. Once in advanced you will select everyone and click edit, and remove the permissions for everything except "read & execute" and "read". Then click 'ok' and 'apply'
 </p>
 <h1>All Prerequisites Complete</h1>
